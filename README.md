@@ -12,17 +12,7 @@ Una biblioteca para estructuras de datos lineales en C, usando operaciones basic
 - [Estructuras Incluidas](#-estructuras-incluidas)
 - [Requisitos](#-requisitos)
 - [Instalación](#-instalación)
-- [Uso Rápido](#-uso-rápido)
-- [Documentación de la API](#-documentación-de-la-api)
-  - [Listas](#listas)
-  - [Pilas](#pilas)
-  - [Colas](#colas)
-- [Ejemplos](#-ejemplos)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Contribución](#-contribución)
-- [Licencia](#-licencia)
-- [Autor](#-autor)
-
+- 
 ## Características
 
 - **Sin dependencias externas**: Solo utiliza la biblioteca estándar de C
