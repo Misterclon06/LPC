@@ -133,6 +133,7 @@ dato cola_final(cola *x){
     return x->final->dato;
 }
 
+// verifica si un valor específico está presente en la cola
 bool cola_contiene(cola *x, dato dato){
 
     bool encontrado = false;

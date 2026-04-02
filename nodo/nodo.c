@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "nodo.h"
 
+// crea un nuevo nodo con el dato dado
 nodo* crearNodo(dato dato){
 
 	nodo* nuevo_nodo = (nodo*)malloc(sizeof(nodo));
@@ -15,12 +16,14 @@ nodo* crearNodo(dato dato){
 
 }
 
+// Libera la memoria de un nodo dado
 void eliminarNodo(nodo *n) { 
     if (n != NULL) {
         free(n); 
     }
 }
 
+// intercambia los datos de dos nodos
 void swapNodo_dato(nodo *x, nodo *y) {
 	if (x != NULL && y != NULL) {
 		dato temp = x->dato;
