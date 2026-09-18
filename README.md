@@ -46,5 +46,5 @@ Una biblioteca para estructuras de datos lineales en C, usando operaciones basic
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/estructuras-datos-c.git
+git clone https://github.com/Misterclon06/LPC.git
 cd estructuras-datos-c
